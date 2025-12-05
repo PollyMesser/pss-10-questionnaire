@@ -1,0 +1,13 @@
+# Kompilierte Dateien
+*.exe
+*.o
+*.out
+a.out
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+.idea/
