@@ -2,6 +2,10 @@
 
 Ein C-Programm zur Durchführung des PSS-10 Fragebogens (Perceived Stress Scale).
 
+## Lizenz
+Dieses Projekt steht unter der MIT-Lizenz - siehe [LICENSE](LICENSE) Datei für Details.
+Das bedeutet: Du kannst den Code frei verwenden, kopieren und verändern.
+
 ## Kompilierung
 ```
 gcc pss-10.c -o pss-10.exe -fexec-charset=UTF-8
